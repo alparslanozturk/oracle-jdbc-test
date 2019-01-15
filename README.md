@@ -1,0 +1,1 @@
+# oracle-jdbc-test uygulamasidir.
